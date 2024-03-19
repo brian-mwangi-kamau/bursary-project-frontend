@@ -1,0 +1,10 @@
+.env
+venv/
+db.sqlite3
+
+webapp/templates
+webapp/static
+webapp/__pycache__/
+webapp/migrations/
+
+project_config/__pycache__/
