@@ -7,15 +7,15 @@ This web application is rendered with the __Django__ framework, and designed wit
 Below are screen snapshots of the client interface:
 
 #### The homepage:
-![The homepage]()
+![The homepage](https://github.com/brian-mwangi-kamau/bursary-project-frontend/blob/development/media/image1.jpg)
 
 
 #### The homepage:
-![The homepage]()
+![The homepage](https://github.com/brian-mwangi-kamau/bursary-project-frontend/blob/development/media/image2.jpg)
 
 
 #### The contact section:
-![The contact section]()
+![The contact section](https://github.com/brian-mwangi-kamau/bursary-project-frontend/blob/development/media/image3.jpg)
 
 
 #### A message indicating a success in application submission:
